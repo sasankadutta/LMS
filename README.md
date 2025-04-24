@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Online Library Management System
 
 This project is an Online Library Management System built using React.js, Redux, and Tailwind CSS. It allows users to browse, add, and manage books in an online library. The application includes a responsive UI and uses React Router for navigation.
@@ -83,3 +84,23 @@ online-library-management/
 - 2.navigate to the folder
 - 3.npm install 
 - 4.npm run dev
+=======
+### Hello there 👋
+
+<!--
+**SasankaDutta/SasankaDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+I am Sasanka Dutta, an aspiring Software Developer, currently exploring  the world of Web Development.
+>>>>>>> b79a142361b9df5bf24b634055cad371326ce739
+"# LMS" 
